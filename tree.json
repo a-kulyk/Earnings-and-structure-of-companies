@@ -1,0 +1,52 @@
+[{
+    "companyName": "PepsiCo",
+    "earn": "100",    
+    "treeClass": "active",
+    "tree": [{
+        "tree": [{
+            "earn": "50",
+            "treeClass": "inactive",
+            "companyName": "Miranda"
+        }, {
+            "companyName": "7up",
+            "treeClass": "inactive",
+            "earn": "53",
+            "text": "7up"
+        }],
+        "treeClass": "active",
+        "earn": "75",
+        "companyName": "Pepsi Cola"
+    }, {
+        "companyName": "Mountain Dew",
+        "treeClass": "inactive",
+        "earn": "42",
+        "text": "Mountain Dew"
+    }]
+}, {
+	"companyName": "The Coca-Cola Company",
+	"earn": "120",
+	"treeClass": "active",
+    "tree": [{
+        "treeClass": "inactive",
+        "tree": [{
+            "treeClass": "inactive",
+            "earn": "70",
+            "companyName": "Fanta"
+        }],
+        "earn": "60",
+        "companyName": "Sprite"
+    }, {
+        "tree": [{
+            "treeClass": "inactive",
+            "earn": "30",
+            "companyName": "Nestea"
+        }],
+        "treeClass": "inactive",
+        "earn": "60",
+        "companyName": "Schweppes"
+    }, {
+        "treeClass": "inactive",
+        "earn": "80",
+        "companyName": "Burn"
+    }] 
+}]
